@@ -77,3 +77,8 @@ It produces a structured workflow proposal that is validated before execution.
 ## Status
 
 Portfolio / educational case study.
+
+> This repository is a fictional/educational product case study created
+> to demonstrate Product Management, Product Ownership, technical product
+> thinking, and AI product capabilities. It does not contain confidential
+> information or proprietary materials from any employer.
