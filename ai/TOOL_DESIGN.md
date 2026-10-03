@@ -1,6 +1,3 @@
-
-## `ai/TOOL_DESIGN.md`
-
 ```markdown
 # AI Tool Design
 
