@@ -1,5 +1,8 @@
-```markdown
 # AI Evaluation Plan
+
+## Purpose
+
+Defines the methodology for evaluating the AI system. It describes evaluation dimensions, test datasets, quality metrics, safety tests, regression testing, and the process for comparing AI behavior across versions.
 
 ## Objective
 
