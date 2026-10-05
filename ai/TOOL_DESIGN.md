@@ -1,5 +1,8 @@
-```markdown
 # AI Tool Design
+
+## Purpose
+
+Defines the controlled tools available to the AI assistant and the principles governing tool access. It demonstrates how AI can interact with platform capabilities through explicit, permission-aware interfaces rather than unrestricted system access.
 
 ## Available Tools
 
