@@ -2,6 +2,10 @@
 
 > AI Product Management portfolio case study.
 
+## Purpose
+
+Introduces a fictional AI product designed to simplify workflow creation through natural language. It provides an overview of the customer problem, AI opportunity, product concept, architecture, evaluation approach, safety principles, and expected outcomes.
+
 ## Overview
 
 AI Workflow Assistant helps IT operations teams create automation workflows using natural language.
