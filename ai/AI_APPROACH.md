@@ -1,5 +1,9 @@
 # AI Approach
 
+## Purpose
+
+Explains how AI and deterministic system components work together. AI is used for probabilistic tasks such as language understanding and recommendations, while deterministic services handle validation, permissions, authorization, state management, execution, and auditing.
+
 ## Product Principle
 
 AI should reduce complexity without removing user control.
