@@ -1,5 +1,9 @@
 # AI Workflow Assistant — PRD
 
+## Purpose
+
+Defines the product requirements for the AI workflow assistant. It covers natural-language input, intent understanding, workflow generation, explanation, validation, user approval, error handling, and non-functional requirements.
+
 ## Objective
 
 Reduce the time and expertise required to create workflow automations.
