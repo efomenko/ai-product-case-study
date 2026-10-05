@@ -1,5 +1,9 @@
 # Evaluation Test Cases
 
+## Purpose
+
+Contains representative test scenarios used to evaluate the AI assistant. Cases cover simple requests, complex requests, ambiguous input, missing information, unsupported capabilities, invalid parameters, and potentially unsafe requests.
+
 ## TC-01 — Simple Workflow
 
 Input:
