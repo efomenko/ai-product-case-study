@@ -1,5 +1,9 @@
 # AI Risks
 
+## Purpose
+
+Documents the major risks associated with introducing AI into workflow creation and execution. It covers hallucinations, incorrect workflows, prompt injection, data leakage, unauthorized actions, poor explanations, and model changes, together with proposed mitigations.
+
 | Risk | Impact | Mitigation |
 |---|---|---|
 | Hallucination | High | Controlled tool catalog |
